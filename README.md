@@ -4,11 +4,11 @@
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 
-- 🔭 I’m working on **Projects with Flutter,JAVA and NodeJS**
+- 🔭 I’m working on **Projects with NodeJS ReactJs**
 
 - 🌱 I’m also learning **Python Programming**
 
-- 💬 You can ask me about **Flutter and Java**
+- 💬 You can ask me about **Mern Stack,MySql,Flutter**
 
 - 📫 How to reach me **karuturijagadesh@gmail.com**
  
