@@ -8,7 +8,7 @@
 
 - 🌱 I’m also learning **Python Programming**
 
-- 💬 You can ask me about **Mern Stack, MySQL, Flutter**
+- 💬 You can ask me about **MERN Stack, MySQL, Flutter**
 
 - 📫 How to reach me **karuturijagadesh@gmail.com**
  
