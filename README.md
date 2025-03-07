@@ -21,12 +21,12 @@ I am continuously learning and improving my skills by developing interactive and
 
 🔗 **Explore My Projects:**
 
-- [KJ Search](https://kjsearch.ccbp.tech/)
-- [KJ Destination](https://kjdestination.ccbp.tech/)
-- [KJ Google Search](https://kjgooglesearch.ccbp.tech/)
-- [KJ Letters Count](https://kjletterscount.ccbp.tech/)
-- [KJ Feedback](https://kjfeedback.ccbp.tech/)
-- [KJ Gallery App](https://kjgalleryapp.ccbp.tech/)
+- [Search Application](https://kjsearch.ccbp.tech/)
+- [Destination Search](https://kjdestination.ccbp.tech/)
+- [Google Search](https://kjgooglesearch.ccbp.tech/)
+- [Numbur of Letters Count](https://kjletterscount.ccbp.tech/)
+- [Feedback WebPage](https://kjfeedback.ccbp.tech/)
+- [Gallery App](https://kjgalleryapp.ccbp.tech/)
 
 ✨ I am actively working on creating more **visually appealing and feature-rich web applications** while continuously improving my skills in **ReactJS, UI/UX design, and modern web technologies**. Stay tuned for more amazing projects! 🚀
 
